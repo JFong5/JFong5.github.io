@@ -1,5 +1,5 @@
-AUTHOR = 'Danger Doggo'
-SITENAME = 'My Cool Site'
+AUTHOR = 'Jefferson Fong'
+SITENAME = 'War is Coming'
 SITEURL = ''
 
 PATH = 'content'
